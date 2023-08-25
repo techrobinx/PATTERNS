@@ -1,4 +1,15 @@
 //dimond
+/*
+    *
+   * *
+  *   *
+ *     *
+*       *
+ *     *
+  *   *
+   * *
+    *
+*/
 #include <stdio.h>
 
 int main()

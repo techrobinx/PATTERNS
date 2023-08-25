@@ -1,7 +1,18 @@
+/*
+         *
+        ***
+       *****
+      *******
+     *********
+    *         *
+   ***       ***
+  *****     *****
+ *******   *******
+********* *********
+*/
 #include <stdio.h>
 
-int main()
-{
+int main(){
     int row, space, i, j;
     printf("Enter the number of row \n");
     scanf("%d", &row);

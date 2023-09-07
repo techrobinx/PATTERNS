@@ -1,3 +1,13 @@
+
+//  mirrored Rhombus star pattern
+// Enter the number of row:
+// 5
+//  * * * * * 
+//   * * * * * 
+//    * * * * * 
+//     * * * * * 
+//      * * * * * 
+
 #include<stdio.h>
 
 int main(){

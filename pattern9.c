@@ -17,9 +17,9 @@
 int main(){
      int n;
     int i, j ;
-    // printf("enter the number of the row\n");
-    // scanf("%d",&n);
-    n=5;
+    printf("enter the number of the row\n");
+    scanf("%d",&n);
+    // n=5;
 for(i = 0 ; i <n*2;i ++){
     for(j= 0 ;j<i;j++){
         printf("%d",j);

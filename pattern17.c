@@ -1,4 +1,17 @@
 // left arrow star pattern
+
+// nter the number of row :
+// 5
+// *****
+// ****
+// ***
+// **
+// *
+// *
+// **
+// ***
+// ****
+// *****
 #include<stdio.h>
 
 int main(){

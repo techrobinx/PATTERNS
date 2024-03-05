@@ -1,5 +1,5 @@
-#include<stdio.h>
-
+#include<stdio.h> 
+// hi  
 int main(){
     int row , space , i , j ;
    printf("Enter hte number of row\n");
